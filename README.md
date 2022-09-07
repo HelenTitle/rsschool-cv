@@ -1,1 +1,1 @@
-https://helentitle.github.io/rsschool-cv/cv
+https://github.com/HelenTitle/rsschool-cv/blob/gh-pages/cv.md
