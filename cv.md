@@ -30,4 +30,16 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 };
 ```
 
+##Skills##
+
+Javascript, SQL, Visual Studio, Bootstrap, Web Services, CSS3, HTML 5 
+
+##education##
+
+
+###2012-2017###
+
+
+Zaporizhia Institute of Information Technology 
+
 
